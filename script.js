@@ -54,16 +54,28 @@
 })();
 */
 const messages = [
+    "No 💔",
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
     "Pookie please...",
     "Just think about it!",
-    "If you say no, I will be really sad...",
+    "If you say no, I will be sad...",
     "I will be very sad...",
+    "I will be very very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
+    "Pretty please? 🥺",
+    "But we're so cute together! 💕",
+    "One more chance, pookie?",
+    "Don't break my heart :c",
+    "What about a maybe?",
+    "Please don't do this to me, I'm fragile",
+    "Okay fine. I'll just go die 😔",
+    "You're really just gonna let me die? 🥺",
+    "Sigh... fine. I guess it's over.",
+    "☠️🪦🏴‍☠️",
 ];
 
 let messageIndex = 0;
